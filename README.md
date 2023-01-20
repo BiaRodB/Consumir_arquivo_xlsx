@@ -102,6 +102,7 @@ Password:
 Password (again):
 
 Superuser created successfully."
+
 Vamos abrir dados/admin.py no editor de código, apagar tudo dele e escrever o seguinte código:
 ````python
 from django.contrib import admin
