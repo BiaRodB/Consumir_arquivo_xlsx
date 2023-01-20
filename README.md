@@ -1,9 +1,6 @@
 # Consumir_arquivo_xlsx
 Esse Sistema em Django ira consumir arquivos no formato xlsx, colocando planilhas no banco de dados pelo sistema.
 
-# Agenda_clinica
-Agenda de uma clinica medica feita em Django, Rest framework 
-
 ## Preparando o ambiente
 Instale o python;
 Instale um IDE - editor de código (vs code, pycharm, etc)
